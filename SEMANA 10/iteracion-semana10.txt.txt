@@ -1,0 +1,14 @@
+ITERACIÓN - SEMANA 10
+
+Las dos primeras tareas que desarrollaría serían:
+
+1. Crear el formulario para registrar una incidencia comunitaria.
+2. Configurar la notificación automática en Telegram cuando se registre una nueva incidencia.
+
+Estas tareas son las más importantes porque permiten que los ciudadanos registren la información y que el equipo reciba un aviso inmediato para iniciar el seguimiento del caso.
+
+Para mí, una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue revisada y probada.
+- Quedó registrada en GitHub con su respectiva evidencia.

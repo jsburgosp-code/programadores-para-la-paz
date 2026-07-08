@@ -1,0 +1,13 @@
+AUTOMATIZACIÓN - SEMANA 10
+
+Evento que activa el flujo:
+Cuando un ciudadano registra una nueva incidencia en la plataforma.
+
+Acción:
+n8n detecta el nuevo registro y envía automáticamente una notificación al grupo de Telegram.
+
+Mensaje enviado:
+"Nuevo reporte comunitario recibido. Ingrese a la plataforma para revisar la información."
+
+Información que NO debe enviarse:
+No deben enviarse nombres completos, números de documento, direcciones, teléfonos, contraseñas, claves de acceso, tokens, datos personales ni información sensible de la comunidad.

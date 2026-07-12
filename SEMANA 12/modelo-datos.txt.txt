@@ -1,0 +1,19 @@
+Entidad: Causa
+
+id
+titulo
+descripcion
+fecha
+
+Esta entidad sirve para almacenar la información principal de cada causa creada por la comunidad.
+
+
+
+Entidad: Apoyo
+
+id
+causa_id
+nombre
+fecha
+
+Esta entidad sirve para registrar las personas que apoyan una causa determinada.

@@ -1,0 +1,17 @@
+Evento:
+
+Cuando un ciudadano registra una nueva causa en la plataforma.
+
+Mensaje:
+
+Nueva causa registrada correctamente.
+Ya está disponible para recibir apoyos ciudadanos.
+
+Información que NO debe enviarse:
+
+- Cédulas.
+- Teléfonos.
+- Direcciones.
+- Correos personales.
+- Comentarios privados.
+- Datos sensibles.
